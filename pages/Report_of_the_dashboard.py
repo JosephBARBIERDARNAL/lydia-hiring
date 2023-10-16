@@ -28,6 +28,7 @@ st.markdown("""
             (day, week, month) would have been relevant.
             - With more data, **distribution graphs** could have provided a wealth
             of information that is difficult to visualize at present.
+            - Add a cache system to avoid reloading the data at each page refresh.
             
             
             """)
