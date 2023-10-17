@@ -19,6 +19,8 @@ st.markdown('''
             - **Report of the dashboard**: this page contains a report of the dashboard.
             
             - **CRM campaign**: this page contains a report of the CRM campaign.
+            
+            - **SQL**: this page contains the SQL queries used to build the dashboard.
             ''')
 space(2)
-st.markdown('The source code can access at [this link](https://github.com/JosephBARBIERDARNAL/lydia-hiring)')
+st.markdown('The source code of this web application is available at [this link](https://github.com/JosephBARBIERDARNAL/lydia-hiring)')
